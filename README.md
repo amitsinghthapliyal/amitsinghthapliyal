@@ -66,16 +66,28 @@ hobbies: ["Coding", Gaming", "Cinema"]
 </p>
 
 ---
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsinghthapliyal&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsinghthapliyal&theme=noctis_minimus&layout=compact" />
-</a>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<br><br>
+<h2 align="center">📈 &nbsp;My GitHub History!<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsinghthapliyal&theme=radical" alt="Amit" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=amitsinghthapliyal&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
   
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsinghthapliyal&theme=radical&langs_count=8" alt="Amit" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=amitsinghthapliyal&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
+
+
+
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+![Profile views](https://gpvc.arturio.dev/amitsinghthapliyal)  
+
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
