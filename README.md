@@ -6,6 +6,10 @@
   Let's Connect and have a Chat!💬
 </h1>
 
+<h1 align="center">
+  💼 Contributing at <a href="[https://github.com/YourCompanyHandle](https://github.com/amitsinghthapliyal1)" target="_blank">@Innoneur</a>
+</h1>
+
 <p align="center">
 <a href="https://amitsinghthapliyal.github.io/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
