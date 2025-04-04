@@ -6,9 +6,9 @@
   Let's Connect and have a Chat!💬
 </h1>
 
-<h1 align="center">
+<p align="center">
   💼 Contributing at <a href="[https://github.com/YourCompanyHandle](https://github.com/amitsinghthapliyal1)" target="_blank">@Innoneur</a>
-</h1>
+</p>
 
 <p align="center">
 <a href="https://amitsinghthapliyal.github.io/" target="_blank">
@@ -32,9 +32,14 @@
 
 ```yaml
 name: Amit Singh
-located_in: Bengaluru, Karnataka
+located_in: Delhi, India
 email: amiteee14003@gmail.com
 phone: 9634830671
+works:
+  [
+    "Web Engineer - Innoneur - 2years",
+  ]
+
 education:
   [
     "Java Back-end Developer - Masai School",
